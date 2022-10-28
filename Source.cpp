@@ -1,5 +1,5 @@
 #include <iostream>
-
+//ninhcute
 using namespace std;
 int cong(int a, int b);//SV A
 int tru(int a, int b);//SV B
